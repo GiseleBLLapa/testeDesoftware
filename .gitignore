@@ -1,0 +1,6 @@
+build/classes/java/
+build/distributions/
+build/generated/
+build/scripts/
+build/test-results/
+build/temp
