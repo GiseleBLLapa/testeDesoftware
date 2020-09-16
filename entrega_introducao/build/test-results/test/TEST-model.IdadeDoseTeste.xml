@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="model.IdadeDoseTeste" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-16T01:53:17" hostname="giselebarba-Aspire-4736Z" time="0.126">
-  <properties/>
-  <testcase name="doseTeste()" classname="model.IdadeDoseTeste" time="0.126"/>
-  <system-out><![CDATA[Deve ser ministrada a 1a.
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
