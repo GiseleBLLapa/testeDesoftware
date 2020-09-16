@@ -1,6 +1,2 @@
-build/classes/java/
-build/distributions/
-build/generated/
-build/scripts/
-build/test-results/
-build/temp
+entrega_indroducao/build/
+entrega_indroducao/.gradle/
